@@ -1,0 +1,23 @@
+# Node.js or Python files (if used)
+node_modules/
+venv/
+
+# Compiled files
+*.o
+*.out
+*.class
+*.bin
+*.hex
+
+# Temporary files
+*.log
+*.tmp
+.DS_Store
+
+# Arduino-related files (if using Arduino)
+*.elf
+*.eep
+*.lst
+
+# VS Code settings (optional)
+.vscode/
